@@ -17,3 +17,14 @@ li {
 .form-group {
   margin-bottom: 5px;
 }
+
+.h1 {
+  font-family: 'Caveat Brush', cursive;
+  font-size: 8rem;
+  padding: 0rem;
+  margin: 0rem;
+  color: #fff;
+  -webkit-text-stroke: 1px #333;
+  color: white;
+  text-shadow: 3px 3px 0 #333, -1px -1px 0 #333, 1px -1px 0 #333, -1px 1px 0 #333, 1px 1px 0 #333;
+}
